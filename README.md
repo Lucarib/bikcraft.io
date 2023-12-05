@@ -5,7 +5,7 @@
 > Projeto bikcraft
 
 Projeto construido no curso de HTML e CSS para iniciantes da origamid .
-[ 🔗 Clique aqui para acessar](https://luca-srd.github.io/NLW/)
+[ 🔗 Clique aqui para acessar](https://lucarib.github.io/bikcraft.io/).
 
 ## 👨‍💻 Tecnologias
 
